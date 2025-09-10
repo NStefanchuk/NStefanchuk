@@ -33,10 +33,6 @@ To make this transition, I completed the [HackYourFuture](https://www.hackyourfu
 
 ---
 
-## Methodologies & Collaboration  
-
-Agile · Scrum · Waterfall · Cross-functional communication · Pair programming  
-
 ## Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nikitastefanchuk/) 
