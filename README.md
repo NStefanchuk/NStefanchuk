@@ -7,6 +7,10 @@ I used to design systems. Now I build them. With 6 years of experience as a syst
 
 Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈️, working out in the gym 💪, and cycling long distances across the Netherlands 🚴🌳
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nikitastefanchuk/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/NStefanchuk)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nik.stefanchuk@gmail.com)
+
 ---
 
 ## Technologies
@@ -74,9 +78,3 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
   A responsive weather dashboard that allows searching for any city, displaying current conditions and a 5-day forecast using a public weather API.  
   [Live Demo](<your-netlify-or-vercel-link>) · [Repository](https://github.com/NStefanchuk/WeatherApp)  
 
----
-
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nikitastefanchuk/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/NStefanchuk)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nik.stefanchuk@gmail.com)
