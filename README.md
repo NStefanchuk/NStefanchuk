@@ -3,9 +3,9 @@
 ## About Me
 I am a **Junior Full-stack Developer** based in Amsterdam, Netherlands.
 
-After 6 years of experience in IT as a systems analyst, working closely with developers and cross-functional teams, I developed strong communication skills and a solid understanding of how IT systems work. Eventually, I decided to change my path and focus on building software myself.
+I used to design systems. Now I build them. With 6 years of experience as a systems analyst, I gained strong communication skills and a deep understanding of how IT systems work. Wanting to move from analysis to creation, I joined the [HackYourFuture](https://www.hackyourfuture.net/) bootcamp, where I built real projects with modern web technologies in agile, collaborative teams.
 
-To make this transition, I completed the [HackYourFuture](https://www.hackyourfuture.net/) bootcamp, where I gained hands-on experience with modern web technologies and built real projects in collaborative, agile teams.
+Outside of coding, I enjoy playing video games, traveling, going to the gym, and cycling around the Netherlands.
 
 ---
 
