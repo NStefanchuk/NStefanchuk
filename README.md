@@ -61,6 +61,11 @@ Outside of coding, I enjoy playing video games, traveling, going to the gym, and
 
 ## Projects  
 
+- **Memix**  
+  A playful flashcard app that helps users learn faster by creating decks, flipping through interactive cards, and using smart repetition.  
+  Final group project for HackYourFuture using the **MERN stack** & **Agile workflow**.  
+  [Live Demo](https://c52b.hyf.dev) · [Repository](https://github.com/HackYourFutureProjects/c52-final-project-group-B)
+  
 - **ToDoList App**  
   A minimal, fast task manager where users can add, complete, delete, and filter tasks. Built with React and TailwindCSS, with persistence via Local Storage.  
   [Live Demo](https://nstefanchuk-todolistapp.netlify.app/) · [Repository](https://github.com/NStefanchuk/ToDoList-App)  
@@ -68,12 +73,6 @@ Outside of coding, I enjoy playing video games, traveling, going to the gym, and
 - **WeatherApp**  
   A responsive weather dashboard that allows searching for any city, displaying current conditions and a 5-day forecast using a public weather API.  
   [Live Demo](<your-netlify-or-vercel-link>) · [Repository](https://github.com/NStefanchuk/WeatherApp)  
-
-- **Memix**  
-  A playful flashcard app that helps users learn faster by creating decks, flipping through interactive cards, and using smart repetition.  
-  Final group project for HackYourFuture using the **MERN stack** & **Agile workflow**.  
-  [Live Demo](https://c52b.hyf.dev) · [Repository](https://github.com/HackYourFutureProjects/c52-final-project-group-B)  
-
 
 ---
 
