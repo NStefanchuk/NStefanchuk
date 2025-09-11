@@ -63,7 +63,7 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 
 - **Memix**  
   A playful flashcard app that helps users learn faster by creating decks, flipping through interactive cards, and using smart repetition.  
-  Final group project for HackYourFuture using the **MERN stack** & **Agile workflow**.  
+  Final group project for HackYourFuture using the MERN stack & Agile workflow.  
   [Live Demo](https://c52b.hyf.dev) · [Repository](https://github.com/HackYourFutureProjects/c52-final-project-group-B)
   
 - **ToDoList App**  
