@@ -1,4 +1,4 @@
-# Nikita Stefanchuk
+# Hello there! I'm Nikita 👋
 
 ## About Me
 I am a **Junior Full-stack Developer** based in Amsterdam, Netherlands.
@@ -58,10 +58,10 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
 
 ### Currently Learning
-![TypeScript](https://img.shields.io/badge/-Advanced%20TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js%20App%20Router-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 
-
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NStefanchuk&show_icons=true&theme=react)
 ---
 
 ## Projects  
