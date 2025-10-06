@@ -8,9 +8,6 @@ Enjoy combining logic with creativity to make things clear, usable, and accessib
 
 Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈️, working out in the gym 💪, and cycling long distances across the Netherlands 🚴🌳
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nikitastefanchuk/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nik.stefanchuk@gmail.com)
-
 ---
 
 ## Technologies
