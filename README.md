@@ -43,12 +43,12 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=000&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge)
-
 
 ### Testing
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
@@ -65,11 +65,11 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 
 - **Memix**  
   A playful flashcard app that helps users learn faster by creating decks, flipping through interactive cards, and using smart repetition.  
-  Final group project for HackYourFuture using the MERN stack & Agile workflow.  
+  Group project for HackYourFuture using the MERN stack & Agile workflow.  
   [Live Demo](https://c52b.hyf.dev) · [Repository](https://github.com/HackYourFutureProjects/c52-final-project-group-B)
   
 - **ToDoList App**  
-  A minimal, fast task manager where users can add, complete, delete, and filter tasks. Built with React and TailwindCSS, with persistence via Local Storage.  
+  A sleek and responsive task manager that enables users to add, complete, delete, and filter tasks effortlessly, with data persistence through Local Storage. Built with React and TailwindCSS for speed and simplicity  
   [Live Demo](https://nstefanchuk-todolistapp.netlify.app/) · [Repository](https://github.com/NStefanchuk/ToDoList-App)  
 
 - **WeatherApp**  
