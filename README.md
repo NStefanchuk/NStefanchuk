@@ -66,7 +66,7 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 - **Memix**  
   A playful flashcard app that helps users learn faster by creating decks, flipping through interactive cards, and using smart repetition.  
   Group project for HackYourFuture using the MERN stack & Agile workflow.  
-  [Live Demo](https://c52b.hyf.dev) · [Repository](https://github.com/HackYourFutureProjects/c52-final-project-group-B)
+  [Live Demo](https://c52b.hyf.dev) · [Repository](https://github.com/NStefanchuk/memix-showcase)
   
 - **ToDoList App**  
   A sleek and responsive task manager that enables users to add, complete, delete, and filter tasks effortlessly, with data persistence through Local Storage. Built with React and TailwindCSS for speed and simplicity  
