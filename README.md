@@ -74,5 +74,5 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 
 - **WeatherApp**  
   A responsive weather dashboard that allows searching for any city, displaying current conditions and a 5-day forecast using a public weather API.  
-  [Live Demo](<your-netlify-or-vercel-link>) · [Repository](https://github.com/NStefanchuk/WeatherApp)  
+  [Live Demo](https://weatherapp-huf.netlify.app/) · [Repository](https://github.com/NStefanchuk/WeatherApp)  
 
