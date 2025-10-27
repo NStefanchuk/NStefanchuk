@@ -30,6 +30,7 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge)
 ![REST](https://img.shields.io/badge/-REST%20APIs-0052CC?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 
@@ -38,7 +39,6 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
