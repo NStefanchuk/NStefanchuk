@@ -58,6 +58,7 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 ### Currently Learning
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NStefanchuk&show_icons=true&theme=react)
 ---
