@@ -61,7 +61,6 @@ Outside of coding, I enjoy playing video games 🎮, traveling the world 🌍✈
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NStefanchuk&show_icons=true&theme=react)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
